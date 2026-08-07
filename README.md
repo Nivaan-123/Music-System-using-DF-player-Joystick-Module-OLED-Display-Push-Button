@@ -210,10 +210,12 @@ GND - Common Ground
 MIT License - Feel free to use and modify for your projects.
 
 ## Author
-Nivaan Dhingra 
+Nivaan                                                                                                                        
+
 Created on 3 AUG 2026
+
 Created for Arduino hobbyists and makers.
 
 ---
 
-**Questions or issues?** Check the troubleshooting section or verify your wiring connections first.
+**Questions or issues?** Check the troubleshooting section or verify your wiring connections first. 
